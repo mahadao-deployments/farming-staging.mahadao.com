@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[726],{40726:function(a,c,e){a.exports=e.p+"static/media/SuccessTick.b7fe86196bbe23c6e998.svg"}}]);

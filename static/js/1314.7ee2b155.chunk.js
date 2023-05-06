@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[1314],{21314:function(a,e,c){a.exports=c.p+"static/media/Goerli.e66403efafdc442c30ce.svg"}}]);

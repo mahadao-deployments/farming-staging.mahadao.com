@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[3252],{33252:function(a,e,c){a.exports=c.p+"static/media/ArrowLink.89adeec567fd82b7e004.svg"}}]);

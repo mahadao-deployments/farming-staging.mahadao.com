@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[2327],{72327:function(a,c,e){a.exports=e.p+"static/media/Kucoin.1f8a2308cdf02e10b1b0.svg"}}]);

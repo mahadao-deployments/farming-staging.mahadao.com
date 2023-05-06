@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[9015],{19015:function(a,c,e){a.exports=e.p+"static/media/BSC.f8b675da6e0a9ad5c848.svg"}}]);

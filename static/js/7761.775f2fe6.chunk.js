@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[7761],{27761:function(a,e,c){a.exports=c.p+"static/media/GreenCheck.f1d25b75d105130900e1.svg"}}]);

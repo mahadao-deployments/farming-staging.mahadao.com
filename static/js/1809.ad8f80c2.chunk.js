@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[1809],{61809:function(a,c,e){a.exports=e.p+"static/media/MAHAStarterlg.08f84db8c369c14c9f24.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[2799],{52799:function(a,e,c){a.exports=c.p+"static/media/Polygon.0b1affaaa7f2c435e6be.svg"}}]);

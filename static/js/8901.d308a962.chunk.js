@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[8901],{38901:function(a,e,c){a.exports=c.p+"static/media/USDC_ARB.cb9773e032ad3bf11be7.svg"}}]);

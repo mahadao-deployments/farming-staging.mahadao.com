@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[1963],{31963:function(a,e,c){a.exports=c.p+"static/media/DeleteFaded.dcf49d6af8db1bacceb8.svg"}}]);

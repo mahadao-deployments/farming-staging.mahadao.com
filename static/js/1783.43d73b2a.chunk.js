@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[1783],{91783:function(a,e,c){a.exports=c.p+"static/media/BentoMenu.0f7f463a4c163f26283a.svg"}}]);

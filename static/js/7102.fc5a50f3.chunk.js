@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[7102],{17102:function(a,o,s){a.exports=s.p+"static/media/ArrowTailDown.d3437816f149fb6d37bd.svg"}}]);

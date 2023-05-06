@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[4385],{14385:function(a,e,f){a.exports=f.p+"static/media/ArrowFilledUp.a2f15f95305356551d1f.svg"}}]);

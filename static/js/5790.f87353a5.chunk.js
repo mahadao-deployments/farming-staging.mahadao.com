@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[5790],{15790:function(a,c,e){a.exports=e.p+"static/media/CosmicFinance.94a05c1984a951e38a28.svg"}}]);

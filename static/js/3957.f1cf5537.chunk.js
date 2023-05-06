@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[3957],{83957:function(a,c,e){a.exports=e.p+"static/media/WETH.e66403efafdc442c30ce.svg"}}]);

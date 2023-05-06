@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[4533],{24533:function(a,e,b){a.exports=b.p+"static/media/Firebird.2a64bf025bbb224feb35.svg"}}]);

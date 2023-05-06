@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[6408],{26408:function(a,c,s){a.exports=s.p+"static/media/Cryption.8c3328424a0c38f09d3f.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[7083],{17083:function(a,c,e){a.exports=e.p+"static/media/PancakeSwap.cf5f3772b63301e11c43.svg"}}]);

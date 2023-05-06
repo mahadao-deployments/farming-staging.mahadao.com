@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[5077],{45077:function(a,c,e){a.exports=e.p+"static/media/YearnFinance.f2350324c387adc2a32e.svg"}}]);

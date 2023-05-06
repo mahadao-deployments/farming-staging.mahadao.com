@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[3865],{3865:function(a,e,c){a.exports=c.p+"static/media/CreameFinance.feb9ff93cf69d49a8e31.svg"}}]);

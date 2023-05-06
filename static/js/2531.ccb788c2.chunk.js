@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[2531],{42531:function(a,c,s){a.exports=s.p+"static/media/Discord.148994ccafbea34c555b.svg"}}]);

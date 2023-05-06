@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[1681],{31681:function(a,e,s){a.exports=s.p+"static/media/HOPE.d3459a6f2550ef09b4d7.svg"}}]);

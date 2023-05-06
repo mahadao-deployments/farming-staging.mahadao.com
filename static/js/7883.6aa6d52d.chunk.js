@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[7883],{77883:function(a,c,e){a.exports=e.p+"static/media/PickleFinance.56d317ceda3ffce3c2f3.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[2066],{92066:function(a,c,e){a.exports=e.p+"static/media/Telegram.5d286c3fdccdd066aa68.svg"}}]);

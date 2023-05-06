@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[5537],{65537:function(a,c,e){a.exports=e.p+"static/media/Calendar.42009cff1a10b2511fca.svg"}}]);
