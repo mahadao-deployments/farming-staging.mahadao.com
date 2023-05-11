@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[9597],{29597:function(a,e,m){a.exports=m.p+"static/media/NetworkArbitrum.307d5a548893d0a7197a.svg"}}]);

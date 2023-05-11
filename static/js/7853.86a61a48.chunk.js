@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfarming_mahadao_com=self.webpackChunkfarming_mahadao_com||[]).push([[7853],{27853:function(a,e,c){a.exports=c.p+"static/media/NetworkETH.60d76e95f9244f0114ca.svg"}}]);
